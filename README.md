@@ -1,0 +1,2 @@
+# Selenium-basedXiaohongshuCrawler
+基于Selenium模拟浏览器行为的小红书关键词搜索和笔记爬取
